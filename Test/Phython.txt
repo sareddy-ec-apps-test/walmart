@@ -1,1 +1,2 @@
 This is Phython file
+This is updated for validing pul and fetch commands
